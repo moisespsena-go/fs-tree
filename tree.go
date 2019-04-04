@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/error-wrap"
 
 	"github.com/go-errors/errors"
 )

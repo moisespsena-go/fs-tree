@@ -8,7 +8,7 @@ import (
 
 	"github.com/moisespsena-go/os-common"
 
-	"github.com/moisespsena/go-error-wrap"
+	"github.com/moisespsena-go/error-wrap"
 )
 
 type Visitor struct {
